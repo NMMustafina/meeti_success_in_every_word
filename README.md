@@ -22,7 +22,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/NMMustafina/photo_app.git
+   git clone https://github.com/NMMustafina/meeti_success_in_every_word.git
    ```
 2. Install all the packages by typing the following command
    ```sh
